@@ -9,3 +9,5 @@ Se requiere tener instalar java desde su sitio web oficial para el sistema opera
 - Paso 3: En el programa tendras 6 opciones [1] Alta de Administrador [2] Alta de Doctor [3] Alta Paciente [4] Agendar Cita [5] Verificar citas [0] Salida. El usuario debera escoger la opcion deseada.
 
 Una vez seleccionada cualquier opción pediran capturar los datos para poder crear un registro dependiendo la opción seleccionada. Quedando guardados en un repositorio local.
+
+Nayeli Montes 
